@@ -3,4 +3,4 @@
 >
 > ### Revisar Requerimientos de Software
 >
-> [Sesion 1 (6 de Octubre)](course-welcome)
+> [Bienvenida al Curso](course-welcome)

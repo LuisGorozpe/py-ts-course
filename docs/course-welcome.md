@@ -7,3 +7,7 @@ Aquí encontraras los links para las grabaciones de las sesiones y el material e
 ## Trasmision en Vivo
  
 https://www.youtube.com/watch?v=KJsveFYG7Wg
+
+## Planeacion del Taller
+
+https://luisgorozpe.github.io/taller-py-st-iie-unam/taller-planeacion.pdf

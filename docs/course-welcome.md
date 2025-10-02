@@ -3,3 +3,7 @@
 # Bienvenido/a al taller  
 
 Aquí encontraras los links para las grabaciones de las sesiones y el material extra generado para el taller.
+
+## Trasmision en Vivo
+ 
+https://www.youtube.com/watch?v=KJsveFYG7Wg

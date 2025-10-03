@@ -1,4 +1,4 @@
-![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
+![banner3](images/banner3.png ':class=banner-image')
 
 # Manipulación y Modelado con Librerías Avanzadas (Python/R) 
 

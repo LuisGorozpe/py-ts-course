@@ -1,4 +1,4 @@
-![Wireframe](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
+![Banner4](images/banner4.png ':class=banner-image')
 
 # Temas Avanzados de series de tiempo
 

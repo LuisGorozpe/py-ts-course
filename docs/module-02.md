@@ -1,4 +1,4 @@
-![Flowchart](images/banner2.png ':class=banner-image')
+![banner2](images/banner2.png ':class=banner-image')
 
 # Fundamentos Teóricos y Modelos Clásicos de Series de Tiempo 
 

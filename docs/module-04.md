@@ -1,6 +1,6 @@
 ![Wireframe](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
-# Temas Avanzados, Extensión y Modernización de series de tiempo
+# Temas Avanzados de series de tiempo
 
 Objetivo: Explorar modelos complejos que aborden desafíos avanzados (varianza no constante, variables múltiples) e integrar técnicas de Deep Learning.
 

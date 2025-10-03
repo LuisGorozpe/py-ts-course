@@ -24,16 +24,16 @@ Es imprescindible contar con una computadora y tener instalada alguna implementa
 ## Preparacion de entorno
 A continuación se ofrecen algunas referencias útiles para preparar un entorno local necesario para el desarrollo de este taller. 
 
-#### Entorno de Python:
+### Entorno de Python:
 Es indispensable contar con alguna implementación de Python. No hay alguna distribución preferente o completamente necesaria, sin embargo se recomienda la instalación de Anaconda, implementación que por su flexibilidad permite la integración con muchas herramientas que se usaran a lo largo del taller.
 
 https://www.datacamp.com/es/tutorial/installing-anaconda-windows
 
-#### Instalación de WSL (Para Windows):
+### Instalación de WSL (Para Windows):
 Se recomienda la instalación y configuración de Subsistema de Linux (WSL) en windows.
 https://learn.microsoft.com/es-es/windows/wsl/install
 
-#### Instalación VS Code:
+### Instalación VS Code:
  Se recomienda la instalación y configuración de VS code ademas de su integración con WSL y Anaconda.
 https://code.visualstudio.com/docs/setup/windows
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl

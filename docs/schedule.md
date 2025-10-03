@@ -12,9 +12,8 @@
 **Manipulación y Modelado con Librerías Avanzadas (Python/R) (3 horas)**    
 :fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg) 
  
-
 ## :fas fa-calendar fa-pull-left: [Sesion 4 (27 de Octubre)](module-04)
-**Temas Avanzados, Extensión y Modernización de series de tiempo (3 Horas)**  
+**Temas Avanzados de series de tiempo (3 Horas)**  
 :fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg) 
 
 ## :fas fa-calendar fa-pull-left: [Sesion 5 (3 de Noviembre)](module-05)

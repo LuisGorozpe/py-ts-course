@@ -1,4 +1,4 @@
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![banner 1](images/banner1.png ':class=banner-image')
 
 # Introducción al Taller
 

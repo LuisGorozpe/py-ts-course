@@ -1,3 +1,5 @@
+![flayer](20251006-T-Programación-Phynton-Rs.jpeg)
+
 > # What’s Happening This Week
 > ## Sesión 1: Introducción al Taller (3 horas).
 >

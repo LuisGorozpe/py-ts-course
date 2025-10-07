@@ -39,10 +39,8 @@ https://code.visualstudio.com/docs/setup/windows
 https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-wsl
 
 ## Referencias Extras:
-https://code.visualstudio.com
-https://www.anaconda.com
-https://github.com
-https://www.docker.com
-https://code.visualstudio.com
-
-
++  https://code.visualstudio.com
++  https://www.anaconda.com
++  https://github.com
++  https://www.docker.com
++  https://code.visualstudio.com

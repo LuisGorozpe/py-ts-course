@@ -8,6 +8,6 @@ Contenido: Definición formal de Series de Tiempo. Caracterización de propiedad
 
 [Grabación de la Sesión en Vivo](https://www.youtube.com/live/QOje90AnKVU?si=ykZOcS3v-CvRieIM)
 
-[Notebok de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion2.ipynb)
+[Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion2.ipynb)
 
-[Notebok Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion2.html)
+[Notebook Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion2.html)

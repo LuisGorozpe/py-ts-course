@@ -2,11 +2,11 @@
 
 ## :fas fa-calendar fa-pull-left: [Sesion 1 (6 de Octubre)](module-01)
 **Introducción al Taller (3 horas)**  
-:fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg)   
+:fas fa-desktop fa-fw: [Grabacion YouTube](https://www.youtube.com/live/KJsveFYG7Wg)   
 
 ## :fas fa-calendar fa-pull-left: [Sesion 2 (13 de Octubre)](module-02)
 **Fundamentos Teóricos y Modelos Clásicos de Series de Tiempo (3 horas)**  
-:fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg)    
+:fas fa-desktop fa-fw: [Grabacion YouTube](https://www.youtube.com/live/QOje90AnKVU)    
 
 ## :fas fa-calendar fa-pull-left: [Sesion 3 (20 de Octubre)](module-03)
 **Manipulación y Modelado con Librerías Avanzadas (Python/R) (3 horas)**    

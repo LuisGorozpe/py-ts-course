@@ -11,3 +11,6 @@ Contenido: Definición formal de Series de Tiempo. Caracterización de propiedad
 [Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion2.ipynb)
 
 [Notebook Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion2.html)
+
+[Notas PDF](https://luisgorozpe.github.io/py-ts-code/2025-10-14-Nota-session2.pdf)
+

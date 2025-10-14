@@ -7,3 +7,7 @@ Objetivo: Sentar las bases teóricas de las Series de Tiempo (ST) desde la proba
 Contenido: Definición formal de Series de Tiempo. Caracterización de propiedades clave: Estacionariedad, Tendencia y Estacionalidad. Introducción a Modelos Clásicos (ej. Promedios Móviles y Suavizado Exponencial). Simulación de procesos de ST.
 
 [Grabación de la Sesión en Vivo](https://www.youtube.com/live/QOje90AnKVU?si=ykZOcS3v-CvRieIM)
+
+[Notebok de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion2.ipynb)
+
+[Notebok Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion2.html)

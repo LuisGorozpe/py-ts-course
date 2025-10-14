@@ -12,6 +12,9 @@ https://www.youtube.com/watch?v=KJsveFYG7Wg
 
 https://luisgorozpe.github.io/taller-py-st-iie-unam/taller-planeacion.pdf
 
+[Repositorio del Taller](https://github.com/LuisGorozpe/py-ts-code)
+
+
 # Requisitos para el Taller
 
 ## Conocimientos Previos:

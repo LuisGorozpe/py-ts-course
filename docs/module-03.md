@@ -8,8 +8,8 @@ Contenido: Simulacion e introduccion a los modelos clasicos de Series de Tiempo.
 
  [Grabación de la Sesión en Vivo](https://www.youtube.com/live/mujAubxjAj8)
 
-[Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion2.ipynb)
+[Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion3.ipynb)
 
-[Notebook Web de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion3.ipynb)
+[Notebook Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion3.html)
 
 [Notas PDF](https://luisgorozpe.github.io/py-ts-code/sesion3.pdf)

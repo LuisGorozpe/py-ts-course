@@ -4,6 +4,9 @@
 
 Aquí encontraras los links para las grabaciones de las sesiones y el material extra generado para el taller.
 
+Nota: Si haces uso de la informacion y el material de la pagina de este taller por favor cita el repositorio de esta pagina.
+[![DOI](https://zenodo.org/badge/1062623635.svg)](https://doi.org/10.5281/zenodo.17433087)
+
 ## Trasmision en Vivo
  
 https://www.youtube.com/watch?v=KJsveFYG7Wg

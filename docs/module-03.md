@@ -2,9 +2,14 @@
 
 # Manipulación y Modelado con Librerías Avanzadas (Python/R) 
 
-Objetivo: Aplicar las principales librerías para la manipulación y ajuste de ST.
+Objetivo: Aplicar las principales librerías para la manipulación, simulacion y ajuste de ST.
 
-Contenido: Uso avanzado de librerías para manejo de datos temporales. Introducción a Statsmodels (Python) y herramientas clave de R para el ajuste, diagnóstico y pronóstico de series de tiempo.
+Contenido: Simulacion e introduccion a los modelos clasicos de Series de Tiempo. Uso avanzado de librerías para manejo de datos temporales. Introducción a Statsmodels (Python) para el ajuste, diagnóstico y pronóstico de series de tiempo.
 
- 
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/watch?v=KJsveFYG7Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+ [Grabación de la Sesión en Vivo](https://www.youtube.com/live/mujAubxjAj8)
+
+[Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion2.ipynb)
+
+[Notebook Web de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion3.ipynb)
+
+[Notas PDF](https://luisgorozpe.github.io/py-ts-code/sesion3.pdf)

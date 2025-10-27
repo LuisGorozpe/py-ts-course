@@ -13,3 +13,9 @@ Contenido: Simulacion e introduccion a los modelos clasicos de Series de Tiempo.
 [Notebook Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion3.html)
 
 [Notas PDF](https://luisgorozpe.github.io/py-ts-code/sesion3.pdf)
+
+
+# Bibliografia Recomendada en la sesion
+ 
+ + R. A. D. Peter and J. Brockwell, “Time Series: Theory and Methods,” 2nd Edition, Springer, New York, 1991. [![DOI:10.1007/978-1-4419-0320-4](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.1007/978-1-4419-0320-4)
+ + afa

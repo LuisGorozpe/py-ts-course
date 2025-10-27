@@ -14,3 +14,4 @@ Contenido: Modelos con Heterocedasticidad (GARCH). Introducción al análisis de
 # Links Utiles 
 + https://medium.com/@ian.moore_83986/time-series-forecasting-part-1-is-your-data-stationary-f591df51df6d
 + https://medium.com/@ai_academy/time-series-forecasting-lesson-1-exponential-smoothing-eb55ecbb679d
++ https://www.geeksforgeeks.org/python/pandas-time-series-manipulation

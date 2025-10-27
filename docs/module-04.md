@@ -2,8 +2,11 @@
 
 # Temas Avanzados de series de tiempo
 
-Objetivo: Explorar modelos complejos que aborden desafíos avanzados (varianza no constante, variables múltiples) e integrar técnicas de Deep Learning.
+Objetivo: Pronóstico de series de tiempo. Exploracion de modelos complejos que aborden desafíos avanzados (varianza no constante, variables múltiples) e integrar técnicas de Deep Learning.
 
 Contenido: Modelos con Heterocedasticidad (GARCH). Introducción al análisis de Series de Tiempo Multivariadas (VAR). Aplicación introductoria de Redes Neuronales Recurrentes (LSTM). Discusión de literatura y tendencias modernas.
 
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/watch?v=KJsveFYG7Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+# Lecturas Recomendadas
+
++ A systematic review of Python packages for time series analysis [ArXiv](https://arxiv.org/abs/2104.07406) [Overview](https://siebert-julien.github.io/time-series-analysis-python) [Page](https://siebert-julien.github.io/time-series-analysis-python/overview.html)
++ MATH6011: Forecasting, Curso [Universidad de Southampton](https://www.southampton.ac.uk/courses/2026-27/modules/math6011) [PDF](https://www.southampton.ac.uk/~abz1e14/papers/Forecasting.pdf) [Paper](https://www.southampton.ac.uk/~abz1e14/papers/ForecastingPaper.pdf).

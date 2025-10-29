@@ -12,6 +12,9 @@ Contenido: Modelos con Heterocedasticidad (GARCH). Introducción al análisis de
 
 [Notebook Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion4.html)
 
+# Presentacion 
+Luis Enrique, A. G. (2025, octubre 29). Modelos de Varianza Condicional: ARCH, GARCH, etc. - Series de Tiempo. Zenodo. [![DOI:10.5281/zenodo.17469881](https://zenodo.org/badge/DOI/10.1007/978-3-319-76207-4_15.svg)](https://doi.org/10.5281/zenodo.17469881)
+
 
 # Lecturas Recomendadas
 
@@ -22,4 +25,3 @@ Contenido: Modelos con Heterocedasticidad (GARCH). Introducción al análisis de
 + https://medium.com/@ian.moore_83986/time-series-forecasting-part-1-is-your-data-stationary-f591df51df6d
 + https://medium.com/@ai_academy/time-series-forecasting-lesson-1-exponential-smoothing-eb55ecbb679d
 + https://www.geeksforgeeks.org/python/pandas-time-series-manipulation
-+ 

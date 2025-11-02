@@ -12,7 +12,7 @@ Contenido: Simulacion e introduccion a los modelos clasicos de Series de Tiempo.
 
 [Notebook Web de la Sesión](https://luisgorozpe.github.io/py-ts-code/sesion3.html)
 
-[Notas PDF](https://luisgorozpe.github.io/py-ts-code/sesion3.pdf)
+[Notas PDF](https://luisgorozpe.github.io/py-ts-code/2025-10-20-Notas-sesion3.pdf)
 
 
 # Bibliografia Recomendada en la Sesion

@@ -6,7 +6,7 @@ Objetivo: Establecer un entorno de desarrollo reproducible y profesional.
 
 Contenido: Introducción a Visual Studio Code (VS Code). Gestión de entornos virtuales e implementación de Python (Anaconda). Control de versiones (Git/GitHub). Introducción a la contenerización con Docker para entornos replicables.
 
-[Grabación de la Sesión en Vivo](https://www.youtube.com/live/KJsveFYG7Wg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KJsveFYG7Wg?si=HOvt5RVQBSsuphXv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Links Útiles:
  * https://ml-ops.org

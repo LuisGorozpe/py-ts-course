@@ -6,7 +6,7 @@ Objetivo: Pronóstico de series de tiempo. Exploracion de modelos complejos que 
 
 Contenido: Modelos con Heterocedasticidad (GARCH). Introducción al análisis de Series de Tiempo Multivariadas (VAR). Aplicación introductoria de Redes Neuronales Recurrentes (LSTM). Discusión de literatura y tendencias modernas.
 
- [Grabación de la Sesión en Vivo](https://www.youtube.com/watch?v=0gaDsPwzLg4&t=4s)
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/0gaDsPwzLg4?si=YBE84HQvn_JxJjQb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion4.ipynb)
 

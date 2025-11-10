@@ -6,7 +6,7 @@ Objetivo: Aplicar las principales librerías para la manipulación, simulacion y
 
 Contenido: Simulacion e introduccion a los modelos clasicos de Series de Tiempo. Uso avanzado de librerías para manejo de datos temporales. Introducción a Statsmodels (Python) para el ajuste, diagnóstico y pronóstico de series de tiempo.
 
- [Grabación de la Sesión en Vivo](https://www.youtube.com/live/mujAubxjAj8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mujAubxjAj8?si=LphtwyTL5yJtA7Og" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [Notebook de la Sesión](https://github.com/LuisGorozpe/py-ts-code/blob/main/sesion3.ipynb)
 

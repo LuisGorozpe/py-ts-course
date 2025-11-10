@@ -2,8 +2,8 @@
 
 # Documentación, Presentación y Estilizado de código en Python
 
-Objetivo: Implementar estándares de calidad, estilo y documentación de la industria para garantizar la replicabilidad.
+Objetivo: Implementar estándares de calidad, estilo y documentación del codigo en Python para garantizar la replicabilidad.
 
 Contenido: Revisión de estándares de estilo (PEP 8). Herramientas de formateo y linters. Documentación de código y proyectos (Docstrings). Presentación y compartición de código.
 
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/watch?v=KJsveFYG7Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/N_gRIfWali8?si=Bv_lICQBFpJkaZN2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -10,16 +10,16 @@
 
 ## :fas fa-calendar fa-pull-left: [Sesión 3 (20 de Octubre)](module-03)
 **Manipulación y Modelado con Librerías Avanzadas (Python/R) (3 horas)**    
-:fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg) 
+:fas fa-desktop fa-fw: [Grabacion YouTube](https://www.youtube.com/embed/mujAubxjAj8) 
  
 ## :fas fa-calendar fa-pull-left: [Sesión 4 (27 de Octubre)](module-04)
 **Temas Avanzados de series de tiempo (3 Horas)**  
-:fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg) 
+:fas fa-desktop fa-fw: [Grabacion YouTube](https://www.youtube.com/embed/0gaDsPwzLg4) 
 
 ## :fas fa-calendar fa-pull-left: [Sesión 5 (3 de Noviembre)](module-05)
 **Documentación, Presentación y Estilizado de código en Python (3 Horas)**  
-:fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg) 
+:fas fa-desktop fa-fw: [Grabacion YouTube](https://www.youtube.com/embed/N_gRIfWali8) 
 
 ## :fas fa-calendar fa-pull-left: [Sesión 6 (10 de Noviembre)](module-06)
 **Asistencia y Optimización con Inteligencia Artificial Generativa**  
-:fas fa-desktop fa-fw: [En Vivo YouTube](https://www.youtube.com/watch?v=KJsveFYG7Wg) 
+:fas fa-desktop fa-fw: [Grabacion YouTube](https://www.youtube.com/embed/QenRjux6vkU) 

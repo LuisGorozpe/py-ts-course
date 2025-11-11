@@ -1,4 +1,4 @@
-![Image Description](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![Image Description](images/sesion5.png ':class=banner-image')
 
 # Asistencia y Optimización con Inteligencia Artificial Generativa
 
@@ -6,4 +6,4 @@ Objetivo: Utilizar herramientas de IA para optimizar el flujo de trabajo de prog
 
 Contenido: Uso de LLMs y herramientas de IA (más allá de ChatGPT). Ejemplos de IA Agents para asistencia en investigación. Implementación local de software open-source. Discusión sobre tendencias y ética en el uso de IA.
 
-<div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/watch?v=KJsveFYG7Wg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QenRjux6vkU?si=1T8hmPQgwZSaoYa3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
